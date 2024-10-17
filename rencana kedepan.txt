@@ -1,3 +1,4 @@
 RENCANA KEDEPANNYA
 - Terus mempelajari laravel
+  - Mengerjakan tugas membuat shop dengan laravel
 - Tambah pinter
